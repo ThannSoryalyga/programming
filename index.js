@@ -3,8 +3,8 @@
 
 // Task 1: Comment Your JavaScript Code
 // Write a single-line comment below this line:
-let x = 5;
-console.log(x);
+let = 5;
+console.log();
 // Task 2: Declare JavaScript Variables
 // Declare a variable named `myName`:
 let myName = "Lyga";
@@ -24,9 +24,9 @@ let myAge = 25;
 var name = "Hello, World!";
 // Task 7: Understanding Uninitialized Variables
 // Declare three variables `x`, `y`, and `z` without assigning values. Then, assign values 1, 2, and 3 to them:
-let x;
-let y;
-let 2;
+var x;
+var y;
+var z;
 x = 1;
 y = 2;
 z = 3;
@@ -38,9 +38,9 @@ let StUdEnTnAmE = "Jonh";
 let sTuDeNtAgE = 20;
 // Task 9: Explore Differences Between the var and let Keywords
 // Declare a variable using `var` and another using `let`. Show the difference in scope (use a block of code to demonstrate):
-const PI = 3.14; 
+var myname = "Lyza";
 
 // Task 10: Declare a Read-Only Variable with the const Keyword
 // Declare a constant variable `PI` and assign it the value 3.14:
-const PI = 3.14;  
-console.log(PI);   
+var PI = 4;
+console.log(PI);
